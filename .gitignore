@@ -1,0 +1,11 @@
+/ToDoListTestSuite/.settings
+/ToDoListTestSuite/*.classpath
+/ToDoListTestSuite/*.project
+.settings
+/ToDoListTestSuite/.settings
+/ToDoListTestSuite/.settings/*.prefs
+<<<<<<< HEAD
+/ToDoListTestSuite/lib/selenium-server-standalone-2.21.0.jar
+=======
+.idea
+>>>>>>> 28c59a10920aeed33ba9cac15172dd0873583947
